@@ -1,6 +1,6 @@
 This is created by expo
 
-<img src="https://github.com/kawashimaken/map_with_snap_carousel/raw/master/screenshots/01.png" width="200">
+<img src="https://github.com/kawashimaken/map_with_snap_carousel/raw/master/screenshots/01.png" width="300">
 
 # How to get started
 
