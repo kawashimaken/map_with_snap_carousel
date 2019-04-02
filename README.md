@@ -22,4 +22,10 @@ yarn install
 yarn start
 ```
 
+Your brower will be opened with expo page.
+
+# iPhone
+
+Start you iPhone camera, and read the barcode shown in the browser, and open the link in expo(you have already install expo app in you iPhone)
+
 Enjoy!
