@@ -215,6 +215,7 @@ export default class DemoScreen extends React.Component {
           contentContainerStyle={styles.endPadding}
         >
           <Carousel
+            loop="true"
             style={styles.carouselStyle}
             ref={c => {
               this._carousel = c;
